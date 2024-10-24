@@ -1,0 +1,19 @@
+{
+    "name": "Text Encrypting",
+    "version": "1.0",
+    "description": "Encrypts and decrypts given text using Vigenere cypher",
+    "manifest_version": 3,
+    "author": "Urdu Octavian",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Encrypt Text"
+    },
+    "icons": {
+        "16": "icon16.png",
+        "19": "icon19.png",
+        "32": "icon32.png",
+        "38": "icon38.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}

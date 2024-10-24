@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    min-width: 300px;
+}
+.container {
+    min-width: 250px;
+    text-align: center;
+    padding: 20px;
+}
+
+input,
+textarea,
+button {
+    margin: 10px 0;
+    padding: 10px;
+    width: 80%;
+    max-width: 400px;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    font-size: 1.4rem;
+}
+
+input,
+textarea {
+    font-size: 1rem;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
